@@ -14,48 +14,28 @@ Train mounted on circular track which moves rounded solar plate creates electric
 
 # Components
 
-1.      Train
-
+1.      Train 
 2.      Nozzles
-
 3.      Control kit
-
 4.      Solar panel
-
 5.      Dc motor and pump
-
 6.      Platform (play wood)
-
 7.      Battery
-
 8.      Ir sensor
-
 9.      Bottom tank and filter
-
-10.  Reservoir  tank
-
+10.      Reservoir  tank
 11.   plywood  sheet
 
 # Advantage
 
 1.      Use solar power then electricity problem.
-
 2.      Atomize spray so no worker wills require
-
 3.      Fast washing.
-
 4.      Save extra money and effort of worker.
-
 5.      Rail washing required less time.
-
 6.      Automatically sense the railway on track and operate the nozzles.
-
 7.      Less wastage of water.
-
 8.      Dc pump can be operated solar energy which is free of cost.
-
 9.      Reuse of water.
-
 10.  Low operating and maintenance cost.
-
 11.  Operating possible in both directions for drive through system.
